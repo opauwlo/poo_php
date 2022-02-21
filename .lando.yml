@@ -1,0 +1,4 @@
+name: poo_php
+recipe: lamp
+config:
+  webroot: .
